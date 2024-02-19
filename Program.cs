@@ -30,10 +30,6 @@
                         {
                             Manager Manager = new Manager(Convert.ToDouble(TempList[2]), Convert.ToDouble(TempList[0]), TempList[1], TempList[3]);
                         }
-                        else
-                        {
-                            Employee Manager = new Manager(Convert.ToDouble(TempList[2]), Convert.ToDouble(TempList[0]), TempList[1], TempList[3]);
-                        }
                     }
                 }
             }
